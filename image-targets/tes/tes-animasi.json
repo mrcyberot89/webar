@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/tes/tes-animasi_luminance.jpg",
+  "metadata": null,
+  "name": "tes-animasi",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 480,
+    "originalHeight": 640
+  },
+  "resources": {
+    "originalImage": "tes-animasi_original.jpg",
+    "croppedImage": "tes-animasi_cropped.jpg",
+    "thumbnailImage": "tes-animasi_thumbnail.jpg",
+    "luminanceImage": "tes-animasi_luminance.jpg"
+  },
+  "created": 1791588867039,
+  "updated": 1791588867039
+}
